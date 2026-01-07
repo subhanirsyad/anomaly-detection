@@ -14,8 +14,6 @@ Notebook mengasumsikan dataset berupa **JSON Lines** (kadang berekstensi `.json`
 - `time` : timestamp ISO (contoh: `2020-01-01T12:34:56Z`)
 - `type` : tipe event (mis: `login`, `file_accessed`, dll)
 
-Letakkan file dataset kamu di:
-- `data/clue.jsonl` 
 
 
 ---
