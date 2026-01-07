@@ -15,9 +15,8 @@ Notebook mengasumsikan dataset berupa **JSON Lines** (kadang berekstensi `.json`
 - `type` : tipe event (mis: `login`, `file_accessed`, dll)
 
 Letakkan file dataset kamu di:
-- `data/clue.jsonl` (atau sesuaikan `DATA_PATH` di notebook)
+- `data/clue.jsonl` 
 
-> Repo ini tidak mem-publish dataset mentah. Hanya struktur & kode pemodelan.
 
 ---
 
